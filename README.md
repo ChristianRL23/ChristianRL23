@@ -3,12 +3,9 @@
 
 <h4 align="center">JavaScript/TypeScript React Developer</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" >
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  <a href="https://christianramirezlara.com">Portfolio</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/christianramirezlara">LinkedIn</a>
 </p>
-
-
 
 <h2>😃 About me</h2>
 <p>My name is Christian Lara, I am a 21-year-old guy who lives in the beautiful city of Queretaro in Mexico. 🇲🇽</p>
