@@ -10,7 +10,6 @@
 <h2>😃 About me</h2>
 <p>My name is Christian Lara, I am a 21-year-old guy who lives in the beautiful city of Queretaro in Mexico. 🇲🇽</p>
 <p>I started studying front-end web technologies full-time a year ago because i really like interfaces design and the user-friendly applications and websites development. The most outstanding technologies with which i work are: <strong>HTML, CSS, JavaScript, TypeScript, React, SASS/SCSS</strong> and <strong>more.</strong></p>
-<p>I am currently looking for my first job opportunity to enter the wonderful ecosystem of software development, so if you like my way of working, you can contact me and I will gladly respond as soon as possible.</p>
 <h2>🧑‍💻 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -29,7 +28,6 @@
 </p>
 <h2>🚀 Goals</h2>
 <ul>
-  <li>Find my first job.</li>
   <li>Specialize as a front-end developer.</li>
   <li>Master the english language.</li>
 </ul>
