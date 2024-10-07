@@ -1,7 +1,7 @@
 
 <h1 align="center" >Christian Lara</h1>
 
-<h4 align="center">JavaScript & Java Developer</h4>
+<h4 align="center">JavaScript & TypeScript Developer</h4>
 <p align="center">
   <a href="https://christianramirezlara.com">Portfolio</a> &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/christianramirezlara">LinkedIn</a>
